@@ -1,0 +1,13 @@
+C:\Users\fernanda1234\Desktop\Aula25\obj\Debug\netcoreapp3.1\Aula25.csprojAssemblyReference.cache
+C:\Users\fernanda1234\Desktop\Aula25\obj\Debug\netcoreapp3.1\Aula25.csproj.CoreCompileInputs.cache
+C:\Users\fernanda1234\Desktop\Aula25\obj\Debug\netcoreapp3.1\Aula25.AssemblyInfoInputs.cache
+C:\Users\fernanda1234\Desktop\Aula25\obj\Debug\netcoreapp3.1\Aula25.AssemblyInfo.cs
+C:\Users\fernanda1234\Desktop\Aula25\bin\Debug\netcoreapp3.1\Aula25.exe
+C:\Users\fernanda1234\Desktop\Aula25\bin\Debug\netcoreapp3.1\Aula25.deps.json
+C:\Users\fernanda1234\Desktop\Aula25\bin\Debug\netcoreapp3.1\Aula25.runtimeconfig.json
+C:\Users\fernanda1234\Desktop\Aula25\bin\Debug\netcoreapp3.1\Aula25.runtimeconfig.dev.json
+C:\Users\fernanda1234\Desktop\Aula25\bin\Debug\netcoreapp3.1\Aula25.dll
+C:\Users\fernanda1234\Desktop\Aula25\bin\Debug\netcoreapp3.1\Aula25.pdb
+C:\Users\fernanda1234\Desktop\Aula25\obj\Debug\netcoreapp3.1\Aula25.dll
+C:\Users\fernanda1234\Desktop\Aula25\obj\Debug\netcoreapp3.1\Aula25.pdb
+C:\Users\fernanda1234\Desktop\Aula25\obj\Debug\netcoreapp3.1\Aula25.genruntimeconfig.cache
