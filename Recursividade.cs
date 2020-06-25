@@ -11,5 +11,14 @@ namespace Aula25
              GerarSequenciaFibonacci(num2, num1 + num2, vezes - 1);
          }
      }   
+
+        //Fatorial
+        public int GerarFatorial(int numero){
+            if(numero == 1){
+                return 1;
+            }else{
+                return numero * GerarFatorial(numero - 1);
+            }
+        }
     }
 }

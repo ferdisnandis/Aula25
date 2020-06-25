@@ -8,6 +8,7 @@ namespace Aula25
         {
             Recursividade rec = new Recursividade();
             rec.GerarSequenciaFibonacci(0, 1, 10);
+            Console.WriteLine(rec.GerarFatorial(6));
         }
     }
 }
